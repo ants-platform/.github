@@ -62,7 +62,7 @@
 ANTS Platform is an **open source LLM engineering** platform. It helps teams collaboratively
 **develop, monitor, evaluate,** and **debug** AI applications. ANTS Platform can be **self-hosted in minutes** and is **battle-tested**.
 
-[![ANTS Platform Overview Video]()]
+[![ANTS Platform Overview Video](https://img.youtube.com/vi/IbTCZHUrJJ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=IbTCZHUrJJ0)
 
 ## Learn more
 
