@@ -1,4 +1,6 @@
-![ANTS Platform GitHub Banner](../static/Ants_Platform_Blended.png)
+<div align="center">
+   <img src="../static/logo.png" alt="ANTS Platform GitHub Banner">
+</div>
 
 <div align="center">
    <div>
@@ -16,7 +18,7 @@
    </div>
 
    <div>
-      <a href="https://ants-platform.com/docs"><strong>Docs</strong></a> ·
+      <a href="https://agenticants.ai/docs"><strong>Docs</strong></a> ·
       <a href="https://ants-platform.com/issues"><strong>Report Bug</strong></a> ·
       <a href="https://ants-platform.com/ideas"><strong>Feature Request</strong></a> ·
       <a href="https://ants-platform.com/changelog"><strong>Changelog</strong></a> ·
@@ -36,19 +38,16 @@
    <a href="https://github.com/ants-platform/.github/blob/main/LICENSE">
    <img src="https://img.shields.io/badge/License-MIT-E11311.svg" alt="MIT License">
    </a>
-   <a href="https://www.ycombinator.com/companies/ants-platform"><img src="https://img.shields.io/badge/Y%20Combinator-W23-orange" alt="Y Combinator W23"></a>
-   <a href="https://hub.docker.com/u/ants-platform" target="_blank">
-   <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/ants-platform/ants-platform?labelColor=%20%23FDB062&logo=Docker&labelColor=%20%23528bff"></a>
    <a href="https://pypi.python.org/pypi/ants-platform"><img src="https://img.shields.io/pypi/dm/ants-platform?logo=python&logoColor=white&label=pypi%20ants-platform&color=blue" alt="ants-platform Python package on PyPi"></a>
    <a href="https://www.npmjs.com/package/ants-platform"><img src="https://img.shields.io/npm/dm/ants-platform?logo=npm&logoColor=white&label=npm%20ants-platform&color=blue" alt="ants-platform npm package"></a>
    <br/>
-   <a href="https://discord.com/invite/ants-platform" target="_blank">
+   <a href="https://discord.com/channels/1409972156770685172/1417965502030155818" target="_blank">
    <img src="https://img.shields.io/discord/1111061815649124414?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
       alt="chat on Discord"></a>
-   <a href="https://twitter.com/intent/follow?screen_name=ants_platform" target="_blank">
+   <a href="https://x.com/AgenticAntsAI" target="_blank">
    <img src="https://img.shields.io/twitter/follow/ants_platform?logo=X&color=%20%23f5f5f5"
       alt="follow on X(Twitter)"></a>
-   <a href="https://www.linkedin.com/company/ants-platform/" target="_blank">
+   <a href="https://www.linkedin.com/company/agentic-ants/" target="_blank">
    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
       alt="follow on LinkedIn"></a>
    <a href="https://github.com/ants-platform/.github/graphs/commit-activity" target="_blank">
