@@ -58,7 +58,7 @@
    <img alt="Discussion posts" src="https://img.shields.io/github/discussions/ants-platform/.github?labelColor=%20%239b8afb&color=%20%237a5af8"></a>
 </p>
 
-ANTS Platform is an **open source LLM engineering** platform. It helps teams collaboratively
+ANTS Platform is an **LLM engineering** platform. It helps teams collaboratively
 **develop, monitor, evaluate,** and **debug** AI applications. ANTS Platform can be **self-hosted in minutes** and is **battle-tested**.
 
 [![ANTS Platform Overview Video](https://img.youtube.com/vi/IbTCZHUrJJ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=IbTCZHUrJJ0)
